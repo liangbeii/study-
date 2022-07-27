@@ -25,7 +25,7 @@ public String studentNo;
         System.out.println("我们在认真的上晚自习");
     }
     public void immerseOneselfInTheLibrary() {
-        System.out.println("我在图书馆读书很开心");
+        System.out.println("我在图书馆读书很开心de 蹦起来");
     }
     public void attendClass() {
         System.out.println("我在专心致志的上课");
